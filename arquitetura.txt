@@ -1,0 +1,22 @@
+Tecnologia
+
+Tresposta ou Tacesso: o tempo decorrido entre a requisição do dado e sua efetiva disponibilização.
+
+Tsistema: Tempos de operação da função p/ realizar duas operações sbsequentes.
+
+Tciclo = Ta+Ts, suporque Tdelta >> Ts
+
+Tclico~= Tdelta
+
+Velocidade ~ 1/Tacesso
+	|
+	|
+	|----> Taxa de bits ou vazão
+
+Taxa = Barramento de dados/Tacesso
+
+Ex 4Bits, Tdelta= 1 mseg
+
+Taxa= 4bits/1mseg = 4kbps.
+
+Principio de localidade: Dados/instruções tipicamente se encontram em posições prosimas da memoria.
